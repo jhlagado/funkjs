@@ -2,6 +2,7 @@
 
 A lightweight library of functional functions
 
+```javascript
     pick(object, keys) 
     zipobject(props, values) 
     unzip(array) 
@@ -26,3 +27,4 @@ A lightweight library of functional functions
     startswith(string, target) 
     getkeys(a)
     isequal(a, b, maxdepth) 
+```
